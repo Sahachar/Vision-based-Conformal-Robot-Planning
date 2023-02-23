@@ -1,0 +1,8 @@
+prefix=/home/sah/osbert/yolo_ws/devel/.private/droidcam_ros
+
+Name: droidcam_ros
+Description: Description of droidcam_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

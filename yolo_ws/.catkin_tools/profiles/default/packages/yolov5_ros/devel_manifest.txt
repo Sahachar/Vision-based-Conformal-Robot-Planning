@@ -1,0 +1,7 @@
+yolov5_ros
+/home/sah/osbert/yolo_ws/devel/.private/yolov5_ros/cmake.lock /home/sah/osbert/yolo_ws/devel/./cmake.lock
+/home/sah/osbert/yolo_ws/devel/.private/yolov5_ros/share/yolov5_ros/cmake/yolov5_rosConfig-version.cmake /home/sah/osbert/yolo_ws/devel/share/yolov5_ros/cmake/yolov5_rosConfig-version.cmake
+/home/sah/osbert/yolo_ws/devel/.private/yolov5_ros/share/yolov5_ros/cmake/yolov5_rosConfig.cmake /home/sah/osbert/yolo_ws/devel/share/yolov5_ros/cmake/yolov5_rosConfig.cmake
+/home/sah/osbert/yolo_ws/devel/.private/yolov5_ros/lib/yolov5_ros/detect.py /home/sah/osbert/yolo_ws/devel/lib/yolov5_ros/detect.py
+/home/sah/osbert/yolo_ws/devel/.private/yolov5_ros/lib/yolov5_ros/cmake.lock /home/sah/osbert/yolo_ws/devel/lib/yolov5_ros/cmake.lock
+/home/sah/osbert/yolo_ws/devel/.private/yolov5_ros/lib/pkgconfig/yolov5_ros.pc /home/sah/osbert/yolo_ws/devel/lib/pkgconfig/yolov5_ros.pc

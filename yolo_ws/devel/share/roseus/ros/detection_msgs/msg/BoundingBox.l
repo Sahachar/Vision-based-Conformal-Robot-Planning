@@ -1,0 +1,1 @@
+/home/sah/osbert/yolo_ws/devel/.private/detection_msgs/share/roseus/ros/detection_msgs/msg/BoundingBox.l

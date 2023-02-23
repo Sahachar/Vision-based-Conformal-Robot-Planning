@@ -1,0 +1,2 @@
+detection_msgs:epuck_driver:yolov5_ros
+-DCATKIN_DEVEL_PREFIX=/home/sah/osbert/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sah/osbert/catkin_ws/install -G Unix Makefiles

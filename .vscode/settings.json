@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./yolo_ws/src/yolov5_ros/src/yolov5"
+    ]
+}

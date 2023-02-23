@@ -1,0 +1,34 @@
+[INFO] [1660707968.351097]: header: 
+  seq: 1888
+  stamp: 
+    secs: 1660707967
+    nsecs: 601933240
+  frame_id: ''
+image_header: 
+  seq: 1888
+  stamp: 
+    secs: 1660707967
+    nsecs: 601933240
+  frame_id: ''
+bounding_boxes: 
+  - 
+    Class: "Robot"
+    probability: 0.5419335961341858
+    xmin: 231
+    ymin: 215
+    xmax: 284
+    ymax: 276
+  - 
+    Class: "Cup"
+    probability: 0.8529025316238403
+    xmin: 101
+    ymin: 181
+    xmax: 158
+    ymax: 259
+  - 
+    Class: "Cup"
+    probability: 0.8711052536964417
+    xmin: 332
+    ymin: 181
+    xmax: 394
+    ymax: 264

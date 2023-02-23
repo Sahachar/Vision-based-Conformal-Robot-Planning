@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sah/osbert/yolo_ws/devel/.private/droidcam_ros/setup.sh

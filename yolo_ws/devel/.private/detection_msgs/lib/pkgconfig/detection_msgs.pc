@@ -1,0 +1,8 @@
+prefix=/home/sah/osbert/yolo_ws/devel/.private/detection_msgs
+
+Name: detection_msgs
+Description: Description of detection_msgs
+Version: 0.0.0
+Cflags: -I/home/sah/osbert/yolo_ws/devel/.private/detection_msgs/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs geometry_msgs sensor_msgs std_msgs message_runtime
